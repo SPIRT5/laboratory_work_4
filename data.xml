@@ -1,0 +1,32 @@
+<data>
+    <person>
+        <name>Иван</name>
+        <age>30</age>
+        <profession>учитель</profession>
+        <city>Санкт-Петербург</city>
+    </person>
+    <person>
+        <name>Анна</name>
+        <age>25</age>
+        <profession>инженер</profession>
+        <city>Москва</city>
+    </person>
+    <person>
+        <name>Максим</name>
+        <age>27</age>
+        <profession>программист</profession>
+        <city>Екатеринбург</city>
+    </person>
+    <person>
+        <name>Ольга</name>
+        <age>26</age>
+        <profession>дизайнер</profession>
+        <city>Краснодар</city>
+    </person>
+    <person>
+        <name>Елена</name>
+        <age>28</age>
+        <profession>врач</profession>
+        <city>Новосибирск</city>
+    </person>
+</data>
